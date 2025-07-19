@@ -97,19 +97,19 @@ button{
     }
    
        
-    
+   
     .banner-section{
         width: 100%;
         text-align: center;
         margin-top: 180px;
-        margin-right: 20px;
+        margin-left: 90px;
         font-size: 1rem;
         font-weight: 700;
     }
     .brand-name{
-        /* text-align: center; */
+        text-align: center;
         font-size: 1rem;
-        margin-left: 120px;
+        margin-left: 200px;
     }
     
 }
